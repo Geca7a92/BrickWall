@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickWallMain", "StartUp\BrickWallMain.csproj", "{205F9B6F-3928-448A-ABCB-0ED066CAEE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{28955D77-82B9-4487-A42E-2E1A06E8A218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205F9B6F-3928-448A-ABCB-0ED066CAEE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205F9B6F-3928-448A-ABCB-0ED066CAEE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205F9B6F-3928-448A-ABCB-0ED066CAEE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205F9B6F-3928-448A-ABCB-0ED066CAEE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28955D77-82B9-4487-A42E-2E1A06E8A218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28955D77-82B9-4487-A42E-2E1A06E8A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28955D77-82B9-4487-A42E-2E1A06E8A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28955D77-82B9-4487-A42E-2E1A06E8A218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7959EA35-2C6C-46D8-9279-49CAEA09EDB8}
+	EndGlobalSection
+EndGlobal
